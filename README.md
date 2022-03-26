@@ -17,4 +17,5 @@ Based on the output of these tables, we can see that the data may meet the desig
 
 At a level of significance of 5%, we cannot conclude that the average PSI is significantly different from 1500. The first t-test that is shown results in a p-value of 0.06 which is just above of significance level and so we cannot reject the null hypothesis of this test at this level. If we are to look at the lots individually, the the only lot that we can conclude has an average PSI different from 1500 is lot 3 based on the fact that the p-value of 0.04 allows us to reject the null hypothesis at our level of significance of 0.05. 
 
-
+## Study Design: MechaCar vs Competition
+To quantify how the MechaCar performs against the competition, we can create a study that takes the MPG, horse power, maintanance cost, and safety rating of MechaCars and competitor cars to compare these aspects between MechaCars and the competition. We can do so by conducting individual paired t-tests on these factors with the null hypothesis being that the factors are the same. In doing so, we may be able to see how these aspects differ between MechaCars and competitor cars. 
