@@ -15,4 +15,6 @@ Based on the output of these tables, we can see that the data may meet the desig
 ![Screenshot (56)](https://user-images.githubusercontent.com/82130746/160244328-59fc16b1-d672-41a4-84bf-5a00a1d4d15d.png)
 ![Screenshot (57)](https://user-images.githubusercontent.com/82130746/160244330-6ccc9985-aaf9-4ac3-a163-684416eb6b2d.png)
 
+At a level of significance of 5%, we cannot conclude that the average PSI is significantly different from 1500. The first t-test that is shown results in a p-value of 0.06 which is just above of significance level and so we cannot reject the null hypothesis of this test at this level. If we are to look at the lots individually, the the only lot that we can conclude has an average PSI different from 1500 is lot 3 based on the fact that the p-value of 0.04 allows us to reject the null hypothesis at our level of significance of 0.05. 
+
 
